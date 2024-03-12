@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "d296694977f74770",
+    "type": "split",
+    "children": [
+      {
+        "id": "f45720e45405475f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ed479bb94449807",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "631ba61b2c83cbd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb2a254c992eae73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5297e16d4c57e341",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40b45bb98749fd91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f86be3b97ca0eed9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "ccb059b051ad6200",
+    "type": "split",
+    "children": [
+      {
+        "id": "64fc0cff8cdd130c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "548cdc0a0843934c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5596374a033613e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18fc8a29ea7f6727",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb569111bd0805a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6ed479bb94449807",
+  "lastOpenFiles": [
+    "Vim/Vim_Cheets.md",
+    "Vim/Vimium_Shortcuts-Browser Extension.md",
+    "Vim/My_Vim_Cheets.md",
+    "Terminal_Shortcuts.md",
+    "Vim/Vim_shorts.md",
+    "Git/github-git-cheat-sheet.pdf",
+    "Vim/Vim Cheat Sheet.pdf",
+    "Vim/Vim_Cheat.pdf",
+    "BSD/Time_sync.md",
+    "BSD/Change_Shell.md",
+    "Dev/Rust/The_Rust_Programing_Language.pdf",
+    "Dev/Rust/Progaming_Language.pdf",
+    "Dev/Rust/Lets_Get_Rusty_Cheets.pdf",
+    "Linux/Fedora/Fedora_Tips.md",
+    "Linux/Change_Shell.md",
+    "Linux/RPM.md",
+    "Linux/RPM",
+    "Linux/Fedora/Fedora_Tips",
+    "Ssh/Change_ssh_port.md",
+    "Linux/Debian/Debian_based.md",
+    "Linux/Debian",
+    "Linux/Fedora/Change ssh port.md",
+    "Ssh/Change ssh port.md",
+    "Hardware/Man/Drevo_Calibur_Keyboard.pdf",
+    "Linux/Debian_based.md",
+    "Linux/Custom tty.md",
+    "Ssh/SSH_Config.md",
+    "Ssh/SSHFS.md",
+    "Ssh/VirtualBox.ssh.md",
+    "Vim/my_vim_cheets.md",
+    "Vim/My_vim_cheets.md",
+    "Vim/Vimium_Shortcuts - - Browser Extension.md",
+    "Xdg_Standard.md",
+    "xdg_standard.md",
+    "terminal_shortcuts.md",
+    "2see/newoobs/Articles/Unix_Linux/Linux/Fedora/Nginx.md"
+  ]
+}
